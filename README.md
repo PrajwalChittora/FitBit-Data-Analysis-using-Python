@@ -1,6 +1,6 @@
 # FitBit Data Analysis using Python - Google Analytics Professional Certificate Project
 
-* **Note:** This project follows a structured data analysis methodology. The "Share" and "Act" sections contain the main insights and recommendations.  The earlier sections ("Ask", "Prepare", "Process", "Analyze") document the data cleaning and exploratory steps.
+* **Note:** This project follows a structured data analysis methodology. The "Share" and "Act" sections contain the main insights and recommendations.  The earlier sections ("Ask", "Prepare", "Process", "Analyze") document the data cleaning and exploratory steps. Make sure to open the file in Google Colab for a better understanding.
 * **Navigation Tip:** If you're primarily interested in the analysis results and actionable insights, you can focus on the "Share" and "Act" sections. The preceding sections outline the data preparation and analysis methodology for those interested in the technical process.
 
 **Project Context**
